@@ -1,3 +1,3 @@
-# Socket Server Basico
+# Aplicación de colas de tickets.
 
-Un servidor de Websockets usando Node, Express y Socket.io
+Simualación de tickets atendidos en un banco.
